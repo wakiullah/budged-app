@@ -1,0 +1,94 @@
+body {
+    background: rgb(233, 233, 233);
+}
+
+h1 {
+    font-size: 35px;
+    margin-top: 25px;
+}
+
+h2 {
+    margin-bottom: 20px;
+}
+
+.main-budget {
+    border: 2px solid #005c0c;
+    border-radius: 5px;
+    padding: 15px;
+}
+
+.main-budget input {
+    width: 100%;
+    margin-bottom: 25px;
+}
+
+.main-budget button {
+    background: transparent;
+    border-radius: 5px;
+    border: 2px solid #005c0c;
+    padding: 5px 12px;
+    color: #005c0c
+}
+
+.expensis {
+    border: 2px solid #b30000;
+    border-radius: 5px;
+    padding: 15px;
+}
+
+.expensis input {
+    width: 100%;
+    margin-bottom: 15px;
+}
+
+.expensis button {
+    background: transparent;
+    border-radius: 5px;
+    border: 2px solid #b30000;
+    padding: 5px 12px;
+    color: #b30000;
+}
+
+.title {
+    padding-left: 30px;
+}
+
+.title h3 {
+    display: inline-block;
+    font-size: 25px;
+}
+
+.title h3:last-child {
+    margin-left: 110px;
+}
+
+.expensis-details h4,
+h5 {
+    font-size: 20px;
+    color: #b30000
+}
+
+.expen-title {
+    padding-left: 46px;
+}
+
+a {
+    text-decoration: none;
+    background: #b30000;
+    color: #fff;
+    padding: 2px 6px;
+    font-size: 16px;
+}
+
+a:hover {
+    text-decoration: none;
+    color: white
+}
+
+.red {
+    color: #b30000;
+}
+
+.green {
+    color: #005c0c;
+}
